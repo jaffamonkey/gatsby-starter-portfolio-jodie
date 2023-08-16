@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.mjs
-    siteTitle: `Jodie`,
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
-    siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://jodie.lekoarts.de`,
-    siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+    siteTitle: `nimthiriellittlebury`,
+    siteTitleAlt: `nimthiriellittlebury`,
+    siteHeadline: `nimthiriellittlebury`,
+    siteUrl: `https://nimthiriellittlebury.art`,
+    siteDescription: `nimthiriellittlebury`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@nimthiriellittlebury`,
   },
   trailingSlash: `never`,
   plugins: [
@@ -39,9 +39,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `jodie - @lekoarts/gatsby-theme-jodie`,
-        short_name: `jodie`,
-        description: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+        name: `nimthiriellittlebury`,
+        short_name: `nimthiriellittlebury`,
+        description: `nimthiriellittlebury`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
